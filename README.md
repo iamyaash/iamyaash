@@ -1,11 +1,25 @@
 ## Hello there, I'm Yashwanth 👋
 
-Passionate and curious about technology & innovation. I've gained expertise in research and development. Proficient in Git, Python, and Node.Js, I'm dedicated to pushing boundaries and consistently improving my skills. With expertise in graphic design and technical services, I've honed my abilities in these areas. I believe in the power of continuous learning and growth, both as an individual and a collaborator. I look forward to making meaningful contributions to the tech industry.
+Enthusiastic about technology and driven by curiosity. Proficient in ***Python***, ***Git***, ***HTML/CSS***, and ***Bootstrap***. Passionate about exploring the potential of technology and dedicated to making meaningful contributions
 
 ### 🌱 Currently Learning
 
-- Developing a Discord bot using `Discord.js V-14`
+- Engaged in a beginner-friendly project utilizing **`Python`**.
+- Developing a Discord bot using **`Discord.js V-14`**
 
 ### 🚀 Seeking Opportunities
 
-Currently seeking internship & apprenticeship opportunities in the tech industry. Open to new challenges and learning experiences.
+Seeking *internships* or *apprenticeships*. Excited to learn and tackle new challenges."
+
+### 📫 Reaching me
+<div id="badges">
+    <a href="https://www.linkedin.com/in/yashwanth-ratha-krishnan/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/this_is_yaash">
+        <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://stackoverflow.com/users/19853589/yashwanth-ratha-krishnan">
+        <img src="https://img.shields.io/badge/Stack Overflow-orange?logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
+    </a>
+</div>
