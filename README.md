@@ -9,17 +9,4 @@ Enthusiastic about technology and driven by curiosity. Proficient in ***Python**
 
 ### 🚀 Seeking Opportunities
 
-Seeking *internships* or *apprenticeships*. Excited to learn and tackle new challenges."
-
-### 📫 Reaching me
-<div id="badges">
-    <a href="https://www.linkedin.com/in/yashwanth-ratha-krishnan/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/this_is_yaash">
-        <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/19853589/yashwanth-ratha-krishnan">
-        <img src="https://img.shields.io/badge/Stack Overflow-orange?logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
-    </a>
-</div>
+Seeking *internships* or *apprenticeships*. Excited to learn and tackle new challenges.
