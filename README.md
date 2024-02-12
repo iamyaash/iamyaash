@@ -4,5 +4,5 @@ Enthusiastic about technology and driven by curiosity. Proficient in ***Python**
 
 ### 🌱 Currently
 
-- Engaged in a beginner-friendly project utilizing **`Python`**.
+- Engaged in a beginner-friendly project utilizing **`Python`**
 - Developing a Discord bot using **`Discord.js V-14`**
