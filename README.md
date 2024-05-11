@@ -18,7 +18,7 @@
 
 ## Open-Source Programs ⚙️
 
-| Program      | Duration            | Badge                                                                  | Rank                     |
-|--------------|---------------------|------------------------------------------------------------------------|--------------------------|
-| **JGEC Winter of Code'24**  | Jan 2024 - Feb 2024 | <img src="./OpenSource/JWoC'24.png" alt="JWoC'24 Badge" width="25%">   | **Rank 24** *Out of 186* |
-| **GirlScript Summer of Code'24** | May 2024 - Present  | <img src="./OpenSource/GSSoC'24.png" alt="GSSoC'24 Badge" width="25%"> | N/A                      |
+| Program                          | Duration            | Rank                     |
+|----------------------------------|---------------------|--------------------------|
+| **JGEC Winter of Code'24**      | Jan 2024 - Feb 2024 | **Rank 24** *Out of 186* |
+| **GirlScript Summer of Code'24** | May 2024 - Present  | N/A                      |
