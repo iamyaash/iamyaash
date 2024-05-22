@@ -3,8 +3,9 @@
  I look forward to a better world of open-source and linux.
 
 ## Skills 🖥️
-- **Programming**: Python 3
-- **Version Control**: Git
+- **Git**
+- **Python**
+- **Shell Scripting**
 ## Currently 🌱
 - Conducting research on a project related to `Open-Source` & `Linux`.
 - Delving deep into the Linux Systems & Architecture to broaden my understanding.
