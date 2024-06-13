@@ -1,11 +1,13 @@
-# Hello there, I'm Yashwanth 👋
- A **4th year MS Student in Software Systems**, with a passion & curiousity for contributing to open-source community. I like to research, explore and invent new things related to `open-source`, `linux` and `AI/ML`.
- I look forward to a better world of open-source and linux.
+# hello there!👀
 
-## Skills 🖥️
-- **Git**
-- **Python**
-- **Shell Scripting**
-## Currently 🌱
-- Conducting research on a project related to `Open-Source` & `Linux`.
-- Delving deep into the Linux Systems & Architecture to broaden my understanding.
+### About Me:
+
+- Final year **MS student**.
+- I explore, research & learn about things that interest me.
+- **Open source** & **Linux** enthusiast.
+
+**Contact:**
+- **LinkedIn**: [Yashwanth Ratha Krishnan](https://www.linkedin.com/in/yashwanth-ratha-krishnan/) (I won't be monitoring LinkedIn often)
+- **Gmail**: yashwanthrathakrishnan@gmail.com ('ll make sure to read your email, so don't hesitate to reach out)
+
+> To know more about me, [click here](https://this-is-yaash.github.io/).
