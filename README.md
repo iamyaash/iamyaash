@@ -7,7 +7,7 @@
 - **Open source** & **Linux** enthusiast.
 
 **Contact:**
-- **LinkedIn**: [Yashwanth Ratha Krishnan](https://www.linkedin.com/in/yashwanth-ratha-krishnan/) (I won't be monitoring LinkedIn often)
-- **Gmail**: yashwanthrathakrishnan@gmail.com ('ll make sure to read your email, so don't hesitate to reach out)
+- **LinkedIn**: [Yashwanth Ratha Krishnan](https://www.linkedin.com/in/yashwanth-ratha-krishnan/) (_I won't be monitoring LinkedIn often_)
+- **Gmail**: yashwanthrathakrishnan@gmail.com (_I'll make sure to read your email, so please contact me anytime_)
 
 > To know more about me, [click here](https://this-is-yaash.github.io/).
