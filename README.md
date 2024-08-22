@@ -2,9 +2,10 @@
 
 ### About Me:
 
-- Final year **MS student**.
-- I explore, research & learn about things that interest me.
-- **Open source** & **Linux** enthusiast.
+- Final-year **MS Software Systems student**.
+- Contributor to the **[Fedora Community Operations Team](https://gitlab.com/fedora/commops)**.
+- Passionate about **Open-Source** and **Linux**.
+- I love exploring, researching, and learning about things that interest me.
 
 **Contact:**
 - **LinkedIn**: [Yashwanth Ratha Krishnan](https://www.linkedin.com/in/yashwanth-ratha-krishnan/) (_I won't be monitoring LinkedIn often_)
