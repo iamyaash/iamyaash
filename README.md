@@ -18,4 +18,4 @@ Final-year **MS Software Systems** student passionate about **open-source contri
 - **LinkedIn**: [Yashwanth Rathakrishnan](https://www.linkedin.com/in/iamyaash/)
 - **Gmail**: yashwanthrathakrishnan@gmail.com (_I'll make sure to read your email, so please contact me anytime_)
 
-> To know more about me, [click here](https://this-is-yaash.github.io/).
+> To know more about me, [click here](https://iamyaash.github.io/).
