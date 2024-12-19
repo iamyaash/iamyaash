@@ -8,7 +8,7 @@ Final-year **MS Software Systems** student passionate about **open-source contri
 ### What I do?
 - **Fedora Linux Project** - _Contributor_
   - [_Community  Operations Team (**CommOps**)_](https://gitlab.com/fedora/commops)
-  - [_Infrastructure Team (**Infra**)_](https://github.com/fedora-infra) 
+  - [_Infrastructure Apprentice (**Infra**)_](https://github.com/fedora-infra) 
 - **GirlScript Summer of Code 2024**
   - [_Project Administrator_](https://gssoc.girlscript.tech/)
   - [_Project Mentor_](https://gssoc.girlscript.tech/)
