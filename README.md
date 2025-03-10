@@ -8,6 +8,8 @@
   <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/go/go-original-wordmark.svg" />
   <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/ansible/ansible-original.svg" />
   <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/git/git-original.svg" />
+  <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/raspberrypi/raspberrypi-original.svg" />
+
 </p>
 
 ### About Me:
