@@ -1,9 +1,11 @@
 # hello there!👀
 <p align="right">
+  <img alt="Fedora" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/redhat/redhat-original.svg" />
   <img alt="Fedora" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/fedora/fedora-plain.svg" />
   <img alt="Emacs" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/emacs/emacs-original.svg" />
   <img alt="Emacs" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/neovim/neovim-original.svg" />
   <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/python/python-original.svg" />
+  <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/go/go-original-wordmark.svg" />
   <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/ansible/ansible-original.svg" />
   <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/git/git-original.svg" />
 </p>
