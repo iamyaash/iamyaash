@@ -19,8 +19,8 @@ Final-year **MS Software Systems** student passionate about **Free Software & Op
 ---
 ### What I do?
 - **Red Hat**
-  - _Fellowship in Fedora Project at Red Hat Sponsored by the [Fedora Community Architect](https://github.com/jwflory)_.
-  - _Working under the [Fedora Infrastructure Team](https://github.com/fedora-infra) and Red Hat Community Linux Engineering Team_.
+  - _Fellowship in Fedora Project Sponsored by the [Fedora Community Architect](https://docs.fedoraproject.org/en-US/council/fca/)_.
+  - _Working under the [Fedora Infrastructure Team](https://github.com/fedora-infra) and Red Hat Community Linux Engineering Team.
 - **Fedora Linux Project Involvements**
   - [_Community  Operations Team (**`commops`**)_](https://gitlab.com/fedora/commops)
   - [_Community Blog Editor_]()
