@@ -31,7 +31,7 @@ Direct, secure, and federated communication is preferred, but you can find me ac
 * **Matrix:** [@thisisyaash:fedora.im](https://matrix.to/#/@thisisyaash:fedora.im)
 * **Mastodon:** [@iamyaash@mastodon.social](https://mastodon.social/@iamyaash) 
 * **Email:** [yashwanthrathakrishnan@gmail.com](mailto:yashwanthrathakrishnan@gmail.com)
-* **LinkedIn:** [Yashwanth Rathakrishnan](https://www.linkedin.com/in/iamyaash/)https://www.linkedin.com/in/iamyaash/
+* **LinkedIn:** [Yashwanth Rathakrishnan](https://www.linkedin.com/in/iamyaash/)
 ---
 
 ### System Stack & Tooling
