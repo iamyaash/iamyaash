@@ -5,9 +5,10 @@
 > 
 > I am an unconventional computer nerd driven by hardware ownership, reviving legacy systems, and diving deep into both software and bare metal. Whether it's contributing to upstream ecosystems, experimenting with Raspberry Pis, or working in Emacs, I am deeply invested in technology that simplifies my life and fuels my continuous learning journey.
 
-### Current Engineering Focus
+### Current Open Source & Engineering Focus
 * **[Fedora Project](https://fedoraproject.org/):** Part of the [Community Operations Team](https://forge.fedoraproject.org/commops) and [Infrastructure Team](https://forge.fedoraproject.org/infra). Currently focusing on [Fedora Forge](https://forge.fedoraproject.org).
 * **[Forgejo](https://forgejo.org/):** Part of the [Forgejo team](https://codeberg.org/forgejo). Actively fixing bugs, building features, and contributing to [Forgejo](https://codeberg.org/forgejo/forgejo).
+* **Building hands-on experience in homelab operations, automation, Linux administration, DIY engineering**, (_and reviving legacy systems, extending their lifespan, and exploring innovative new use cases._)
 ---
 
 ### Active Forges
