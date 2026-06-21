@@ -16,6 +16,7 @@
 * **Community Forges:**
     * [Codeberg](https://codeberg.org/iamyaash) - *(Primary public instance for FOSS work)*
     * [Fedora Forge](https://forge.fedoraproject.org/thisisyaash) - *Active Fedora work (migrated from [Pagure](https://pagure.io/user/thisisyaash), which is decommissioned).*
+    * [Forgejo](https://code.forgejo.org/dovah-kiin) - *Upstream Forgejo development and contributions.*
 * **Self-Hosted Hub:** [Personal Forgejo Instance](https://git.yaasharc.me/) - *Where core development, private staging, and workloads live.*
 * **Static Mirrors & Legacy Hubs:**
     * [GitHub](https://github.com/iamyaash) - *(You are here); minimally active, primarily hosting SSG deployments.*
@@ -30,14 +31,14 @@ Direct, secure, and federated communication is preferred, but you can find me ac
 
 * **Matrix:** [@thisisyaash:fedora.im](https://matrix.to/#/@thisisyaash:fedora.im)
 * **Mastodon:** [@iamyaash@mastodon.social](https://mastodon.social/@iamyaash) 
-* **Email:** [yashwanthrathakrishnan@gmail.com](mailto:yashwanthrathakrishnan@gmail.com)
+* **Email:** [iamyaash@outlook.com](mailto:iamyaash@outlook.com)
 * **LinkedIn:** [Yashwanth Rathakrishnan](https://www.linkedin.com/in/iamyaash/)
 ---
 
 ### System Stack & Tooling
 
 ```text
-Host: Linux (Fedora / AArch64 / Raspberry Pi)
-Focus: Systems Automation, Self-Hosting, Devops/CI-CD, Packaging (RPM/DEB)
-Core: Git, Forgejo Runners, Ansible, Containers, Cloudflare, Golang
+Focus: Linux, Open Source, Self-Hosting, Automation, CI/CD, Packaging (RPM/DEB)
+Core: Git, Ansible, Golang, Python, Bash, Cloudflare
+Server Tools: Grafana, Prometheus, Containers, Kubernetes, Forgejo Runner
 ```
