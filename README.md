@@ -19,12 +19,13 @@
     * [Fedora Forge](https://forge.fedoraproject.org/thisisyaash) - *Active Fedora work (migrated from [Pagure](https://pagure.io/user/thisisyaash), which is decommissioned).*
     * [Forgejo](https://code.forgejo.org/dovah-kiin) - *Upstream Forgejo development and contributions.*
 * **Self-Hosted Hub:** [Personal Forgejo Instance](https://git.yaasharc.me/) - *Where core development, private staging, and workloads live.*
-* **Static Mirrors & Legacy Hubs:**
+* **Other Forge Profiles:**
     * [GitHub](https://github.com/iamyaash) - *(You are here); minimally active, primarily hosting SSG deployments.*
     * [GitLab](https://gitlab.com/iamyaash) - *currently inactive.*
 
 > **Note:** I am not very active on GitHub. To see my latest work, active code contributions, and current projects, please check out my other forges listed in the section above.
 
+> **Server Note:** All my personal instances run on my own hardware and are publicly accessible. Due to frequent power and internet outages in my remote village, downtime is unavoidable. Reach out if you’d like to check out my instances.
 ---
 
 ### Communication & Socials
