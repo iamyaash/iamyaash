@@ -20,7 +20,7 @@
     * [Forgejo](https://code.forgejo.org/dovah-kiin) - *Upstream Forgejo development and contributions.*
 * **Self-Hosted Hub:** [Personal Forgejo Instance](https://git.yaasharc.me/) - *Where core development, private staging, and workloads live.*
 * **Other Forge Profiles:**
-    * [GitHub](https://github.com/iamyaash) - *(You are here); minimally active, primarily hosting SSG deployments.*
+    * [GitHub](https://github.com/iamyaash) - *(You are here); minimally active, migrating all deployments to my personal Git Forge.*
     * [GitLab](https://gitlab.com/iamyaash) - *currently inactive.*
 
 > **Note:** I am not very active on GitHub. To see my latest work, active code contributions, and current projects, please check out my other forges listed in the section above.
